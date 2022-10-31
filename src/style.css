@@ -2,6 +2,14 @@
   margin-bottom: 20px;
 }
 
+.form-field {
+  display: block;
+}
+
+.radio_button {
+  display: inline;
+}
+
 .form-field:not(:first-of-type) {
   margin: 10px auto 0;
 }
